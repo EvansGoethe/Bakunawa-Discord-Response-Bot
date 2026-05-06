@@ -275,3 +275,6 @@ guild_libraries/
 
 - GitHub Issues: 回報 Bug 或功能請求
 - Discord: @siegestor
+
+## CDD 是誰？
+- **Crossing Dead Development** (跨越死亡開發)，由 Discord 用戶 `@siegestor` 與他的苦命朋友們共同組成。
