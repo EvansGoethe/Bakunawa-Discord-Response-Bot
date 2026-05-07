@@ -1,6 +1,6 @@
 # 巴克納瓦 | Bakunawa
-
 這是由 **CDD 團隊** 在Claude AI協助下自主開發的 Discord 機器人，能在特定關鍵詞被提及時自動從預先設定的詞庫中隨機回應。完全支援伺服器隔離，每個伺服器都有獨立的詞庫配置。
+![Bakunawa](https://cdn.discordapp.com/attachments/1058755803198279794/1501947981262491760/Bakunawa__.png?ex=69fded8f&is=69fc9c0f&hm=e0bcdc7f8cbdace21567e79c977f91fcdbf8c8929a6341c3c374f8c2357a5ee2&)
 
 ## ✨ 主要特性
 
